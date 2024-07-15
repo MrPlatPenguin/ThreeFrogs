@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d85d7cc37d422440a1ad6b58042a3e6, type: 3}
+  m_Name: PressedButton
+  m_EditorClassIdentifier: 
+  Frames:
+  - {fileID: -1379902939, guid: 1f9044d74b480db41a80388dbfe6229b, type: 3}
+  FPS: 12
+  Loop: 1
+  unscaledTime: 0
